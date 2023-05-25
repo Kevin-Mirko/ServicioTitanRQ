@@ -1,0 +1,17 @@
+C:\Users\soporte.sap\source\repos\ServicioSincronizador\ServicioSincronizador\obj\Debug\ServicioSincronizador.csprojAssemblyReference.cache
+C:\Users\soporte.sap\source\repos\ServicioSincronizador\ServicioSincronizador\obj\Debug\ServicioSincronizador.csproj.CoreCompileInputs.cache
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\ServicioSincronizador.exe.config
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\ServicioSincronizador.exe
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\ServicioSincronizador.pdb
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\obj\Debug\ServicioSincronizador.csprojAssemblyReference.cache
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\obj\Debug\ServicioSincronizador.csproj.CoreCompileInputs.cache
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\obj\Debug\ServicioSincronizador.csproj.CopyComplete
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\obj\Debug\ServicioSincronizador.exe
+C:\Users\soporte.sap\source\repos\SINCRONIZADOR FIRME\ServicioSincronizador\ServicioSincronizador\obj\Debug\ServicioSincronizador.pdb
